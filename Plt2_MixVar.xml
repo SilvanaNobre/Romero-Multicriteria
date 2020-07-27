@@ -1,0 +1,14 @@
+<data>
+    <mixVar name="Cl1Prop">
+        <mixValue>0.02</mixValue>
+    </mixVar>
+    <mixVar name="Cl2Prop">
+        <mixValue>0.09</mixValue>
+    </mixVar>
+    <mixVar name="Cl3Prop">
+        <mixValue>0.89</mixValue>
+    </mixVar>
+    <IgorVar name="Igor">
+        <IgorValue>-0.0</IgorValue>
+    </IgorVar>
+</data>

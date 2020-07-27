@@ -1,0 +1,20 @@
+<data>
+    <gbVar name="SimulationTitle">
+        <gbValue>Curitiba</gbValue>
+    </gbVar>
+    <gbVar name="SimulationDesc">
+        <gbValue>RiskModel</gbValue>
+    </gbVar>	
+    <gbVar name="WorkingDirectory">
+        <gbValue>C:/Users/SilvanaNobre/Dropbox/PrjPyomo/Out2019</gbValue>
+    </gbVar>
+    <gbVar name="DatabaseFile">
+        <gbValue>C:/Users/SilvanaNobre/Dropbox/BD/Demo2020.db</gbValue>
+    </gbVar>
+    <gbVar name="RunType">
+        <gbValue>PayOffMatrix</gbValue>
+    </gbVar>
+    <gbVar name="MySolver">
+        <gbValue>glpk</gbValue>
+    </gbVar>	
+</data>

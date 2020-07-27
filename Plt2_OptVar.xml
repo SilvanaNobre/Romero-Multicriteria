@@ -1,0 +1,65 @@
+<data>
+    <objListVar name="ObjList">
+	    <objListValue>MinMktDev,MaxNPV,MaxFinalStock</objListValue>
+	</objListVar>	
+    <optVar name="ProdPcPrevMin">
+        <optValue>0.4</optValue>
+    </optVar>
+    <optVar name="ProdPcPrevMax">
+        <optValue>0.5</optValue>
+    </optVar>
+    <optVar name="GenMatMin">
+        <optValue>0.2</optValue>
+    </optVar>	
+    <optVar name="GenMatMax">
+        <optValue>0.6</optValue>
+    </optVar>		
+    <optVar name="discRate">
+        <optValue>0.04</optValue>
+    </optVar>	
+    <optVar name="IgorValue">
+        <optValue>0.07</optValue>
+    </optVar>	    
+    <optVar name="goalRate">
+        <optValue>1.0</optValue>
+    </optVar>
+    <optVar name="mcIterations">
+        <optValue>1</optValue>
+    </optVar>	
+    <optVar name="Period2Max">
+        <optValue>1</optValue>
+    </optVar>
+    <optVar name="Period2Flow">
+        <optValue>9</optValue>
+    </optVar>	
+    <optVar name="conNDY">
+        <optValue>no</optValue>
+    </optVar>
+    <optVar name="conMktProd">
+        <optValue>no</optValue>
+    </optVar>
+    <optVar name="conMillPrd">
+        <optValue>no</optValue>        
+    </optVar>
+    <optVar name="conRangeProd">
+        <optValue>no</optValue>
+    </optVar>	
+    <optVar name="conGenMatSecurity">
+        <optValue>no</optValue>
+    </optVar>	
+    <optVar name="conIgor">
+        <optValue>no</optValue>
+    </optVar>	    
+    <optVar name="rgControlPeriod">
+        <optValue>17</optValue>
+    </optVar>
+    <optVar name="Regulation">
+        <optValue>Area</optValue>
+    </optVar>
+    <optVar name="rgControlPcPrev">
+        <optValue>0.01</optValue>
+    </optVar>
+    <optVar name="rgLastAgeClass">
+        <optValue>6</optValue>
+    </optVar>	
+</data>
